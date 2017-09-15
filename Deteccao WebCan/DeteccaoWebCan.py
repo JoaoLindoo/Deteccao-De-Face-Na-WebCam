@@ -1,4 +1,3 @@
-#Autor : Joao Henrique
 import cv2
 
 video = cv2.VideoCapture(0)
